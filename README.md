@@ -13,7 +13,7 @@ Belajar Kelas Dasar Git dan Github. (Progres 75%)
 * Belajar dasar-dasar Git
 * Belajar Membuat Commit
 
-**20 Juni 2021**  
+**20 Juni 2021**
 <br>
 Belajar Kelas Dasar Git dan Github. (Progres 100%)
  * Belajar konsep format text.
